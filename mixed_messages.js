@@ -40,7 +40,7 @@ function createMixedMessage() {
         let secondPlace = activityList[getRandNum(placeList)];
     } while (secondPlace == firstPlace);
 
-    console.log(`Did you know that ${person} has been ${firstActivity} in ${firstPlace} with ${famousPerson} when you've been ${secondActivity} in ${secondPlace}.`);
+    console.log(`Did you know that ${person} has been ${firstActivity} in ${firstPlace} with ${famousPerson} when you've been ${secondActivity} in ${secondPlace}?`);
 }
 
 createMixedMessage();
