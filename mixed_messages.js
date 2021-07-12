@@ -18,3 +18,28 @@ const activityList = ['sleeping', 'hiking', 'playing poker',
 
 const placeList = ['Paris', 'Mordor', 'London', 'Berlin', 'Birmingham',
                 'your room', 'Venice', 'Japan', 'Chechenya', 'Los Angeles', 'New York'];
+
+
+function createMixedMessage() {
+    function getRandNum(array) {
+        return Math.floor(Math.random() * array.length);
+    }
+
+    let person = personList[getRandNum(personList)];
+    let famousPerson = famousPersonList[getRandNum(famousPersonList)];
+    let firstActivity = activityList[getRandNum(activityList)];
+    let firstPlace = placeList[getRandNum(placeList)];
+
+    let secondActivity = activityList[getRandNum(activityList)];
+    do {
+        let secondActivity = activityList[getRandNum(activityList)];
+    } while (secondActivity == firstActivity);
+
+    let secondPlace = placeList[getRandNum(placeList)];
+    do {
+        let secondPlace = activityList[getRandNum(placeList)];
+    } while (secondPlace == firstPlace);
+
+}
+
+createMixedMessage();
