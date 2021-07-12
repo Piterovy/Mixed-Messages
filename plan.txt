@@ -1,0 +1,53 @@
+- All messages will start with 'Did you know that '
+- Person will be chosen randomly from this list
+    - your mom
+    - your dad
+    - your sister
+    - your brother
+    - your grandmother
+    - your granfather
+    - your cousin
+    - your girlfriend
+- Then all messages will have 'has been'
+- In next part of message will take random activity
+    - sleeping
+    - hiking
+    - playing poker
+    - playing League of Legends
+    - assembling gaming PCs
+    - drawing genitalia
+    - doing drugs
+    - partying 
+    - dancing
+    - playing cards
+- Another part will always be 'with'
+- Next part will be random 'historical' figure
+    - the Holy Roman Emperor
+    - the Pope
+    - Gengis Khan
+    - the Last Samurai
+    - the Last Jedi
+    - Marco Polo
+    - Chopin
+    - president of the USA
+    - Boris Johnson's great-grandmother
+    - Ezio Auditore Da Firenze
+    - Charlemagne
+- Always 'in'
+- Random place
+    - Paris
+    - Mordor
+    - London
+    - Berlin
+    - Birmingham
+    - your room
+    - Venice
+    - Japan
+    - Chechenya
+    - Turkey
+    - Los Angeles
+    - New York
+- Always 'when you've been'
+- Random activity from line 12, different from before
+- Always 'in'
+- Random place from line 24, different from before
